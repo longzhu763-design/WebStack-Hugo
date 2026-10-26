@@ -46,3 +46,62 @@
       logo: https://www.capcut.com/favicon.ico
       url: https://www.capcut.com
       description: All-in-one video editing tool with powerful AI features for creators.
+- taxonomy: AI Productivity
+  icon: fas fa-briefcase
+  links:
+    - title: Perplexity
+      logo: https://www.perplexity.ai/favicon.ico
+      url: https://www.perplexity.ai
+      description: The world's most powerful AI search engine, giving you direct answers with sources.
+    - title: Notion AI
+      logo: https://www.notion.so/images/favicon.ico
+      url: https://www.notion.so/product/ai
+      description: AI-powered workspace that helps you write, summarize, and organize your thoughts.
+    - title: Gamma
+      logo: https://gamma.app/favicon.ico
+      url: https://gamma.app
+      description: Create beautiful presentations, documents, and webpages instantly with AI.
+    - title: Otter.ai
+      logo: https://otter.ai/favicon.ico
+      url: https://otter.ai
+      description: Transcribe meetings, record audio, and generate real-time notes with AI.
+
+- taxonomy: AI Coding & Developer
+  icon: fas fa-code
+  links:
+    - title: GitHub Copilot
+      logo: https://github.com/favicon.ico
+      url: https://github.com/features/copilot
+      description: Your AI pair programmer that helps you write code faster and with less work.
+    - title: Cursor
+      logo: https://cursor.sh/favicon.ico
+      url: https://cursor.sh
+      description: The AI-first code editor designed for pair-programming with an LLM.
+    - title: v0 by Vercel
+      logo: https://v0.dev/favicon.ico
+      url: https://v0.dev
+      description: Generate UI with simple text prompts. Copy, paste, and ship beautiful interfaces.
+
+- taxonomy: AI Audio & Voice
+  icon: fas fa-microphone
+  links:
+    - title: ElevenLabs
+      logo: https://elevenlabs.io/favicon.ico
+      url: https://elevenlabs.io
+      description: The most realistic AI text-to-speech and voice cloning platform.
+    - title: Murf AI
+      logo: https://murf.ai/favicon.ico
+      url: https://murf.ai
+      description: AI voice generator for creating studio-quality voiceovers in minutes.
+
+- taxonomy: AI Writing & Translation
+  icon: fas fa-pen-nib
+  links:
+    - title: DeepL
+      logo: https://www.deepl.com/favicon.ico
+      url: https://www.deepl.com
+      description: The best AI translator, known for its incredibly natural and accurate translations.
+    - title: Copy.ai
+      logo: https://www.copy.ai/favicon.ico
+      url: https://www.copy.ai
+      description: AI-powered copywriting tool for generating marketing copy, blogs, and emails.
