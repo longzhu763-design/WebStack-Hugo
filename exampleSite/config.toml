@@ -1,4 +1,4 @@
-baseURL               = "https://bestcrafttools.com/"
+baseURL               = "/"
 languageCode          = "zh-CN"
 title                 = "Best Craft Tools"
 theme                 = "WebStack-Hugo"
