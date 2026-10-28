@@ -34,6 +34,10 @@
 - taxonomy: AI Video & Audio
   icon: fas fa-video
   links:
+    - title: Fliki
+      logo: https://www.google.com/s2/favicons?domain=fliki.ai&sz=64
+      url: https://fliki.ai/?via=jiandong
+      description: Turn text into videos in minutes! Exclusive 30% off via our link.
     - title: Runway
       logo: https://runwayml.com/favicon.ico
       url: https://runwayml.com
@@ -46,6 +50,7 @@
       logo: https://www.capcut.com/favicon.ico
       url: https://www.capcut.com
       description: All-in-one video editing tool with powerful AI features for creators.
+
 - taxonomy: AI Productivity
   icon: fas fa-briefcase
   links:
@@ -65,6 +70,18 @@
       logo: https://otter.ai/favicon.ico
       url: https://otter.ai
       description: Transcribe meetings, record audio, and generate real-time notes with AI.
+
+- taxonomy: AI Marketing & Business
+  icon: fas fa-chart-line
+  links:
+    - title: Systeme.io
+      logo: https://www.google.com/s2/favicons?domain=systeme.io&sz=64
+      url: https://systeme.io/?sa=sa028481026356a9d95e81c2e3feccf4c1f32e8ae1
+      description: All-in-one marketing platform to build sales funnels and websites. Start for free!
+    - title: Copy.ai
+      logo: https://www.copy.ai/favicon.ico
+      url: https://www.copy.ai
+      description: AI-powered copywriting tool for generating marketing copy, blogs, and emails.
 
 - taxonomy: AI Coding & Developer
   icon: fas fa-code
@@ -101,7 +118,3 @@
       logo: https://www.deepl.com/favicon.ico
       url: https://www.deepl.com
       description: The best AI translator, known for its incredibly natural and accurate translations.
-    - title: Copy.ai
-      logo: https://www.copy.ai/favicon.ico
-      url: https://www.copy.ai
-      description: AI-powered copywriting tool for generating marketing copy, blogs, and emails.
