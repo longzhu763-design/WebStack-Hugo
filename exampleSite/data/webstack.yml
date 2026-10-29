@@ -50,6 +50,22 @@
 - taxonomy: AI Video & Audio
   icon: fas fa-video
   links:
+    - title: Dashtoon
+      logo: https://www.google.com/s2/favicons?domain=dashtoon.com&sz=128
+      url: https://dashtoon.com
+      description: Create stunning AI comics and webtoons from text prompts. Perfect for storytelling and comic creation.
+    - title: InVideo AI
+      logo: https://www.google.com/s2/favicons?domain=invideo.io&sz=128
+      url: https://invideo.io
+      description: Turn scripts and text into complete videos with AI-generated visuals, voiceovers, and subtitles.
+    - title: Kaiber
+      logo: https://www.google.com/s2/favicons?domain=kaiber.ai&sz=128
+      url: https://kaiber.ai
+      description: Transform your text and images into stunning animated videos. Ideal for music videos and motion comics.
+    - title: Comic Factory
+      logo: https://www.google.com/s2/favicons?domain=huggingface.co&sz=128
+      url: https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory
+      description: Generate comic strips from text prompts instantly. A free, open-access AI comic generator.
     - title: Fliki
       logo: https://www.google.com/s2/favicons?domain=fliki.ai&sz=128
       url: https://fliki.ai/?via=jiandong
@@ -98,6 +114,10 @@
 - taxonomy: AI Coding & Developer
   icon: fas fa-code
   links:
+    - title: FFmpeg Skill
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=128
+      url: https://github.com/kajisho5/ffmpeg-skill
+      description: A local video editor skill for AI coding agents. Automate video editing with 42 FFmpeg tools. No cloud uploads.
     - title: Framer
       logo: https://www.google.com/s2/favicons?domain=framer.com&sz=128
       url: https://www.framer.com
