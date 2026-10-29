@@ -1,6 +1,6 @@
 baseURL               = "https://bestcrafttools.com/"
 languageCode          = "en-us"
-title                 = "Best Craft Tools"
+title                 = "Best Craft Tools "
 theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower    = true
