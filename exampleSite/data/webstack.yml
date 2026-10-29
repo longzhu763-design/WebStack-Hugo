@@ -3,23 +3,23 @@
   icon: fas fa-briefcase
   links:
     - title: ChatGPT
-      logo: https://chatgpt.com/favicon.ico
+      logo: https://www.google.com/s2/favicons?domain=chatgpt.com&sz=128
       url: https://chatgpt.com
       description: The ultimate AI assistant for writing, coding, and brainstorming.
     - title: Claude
-      logo: https://claude.ai/favicon.ico
+      logo: https://www.google.com/s2/favicons?domain=claude.ai&sz=128
       url: https://claude.ai
       description: Exceptional AI for long-form reading, writing, and natural conversations.
     - title: Perplexity
-      logo: https://logo.clearbit.com/perplexity.ai
+      logo: https://www.google.com/s2/favicons?domain=perplexity.ai&sz=128
       url: https://www.perplexity.ai
       description: The world's most powerful AI search engine, giving you direct answers with sources.
     - title: Granola
-      logo: https://logo.clearbit.com/granola.ai
+      logo: https://www.google.com/s2/favicons?domain=granola.ai&sz=128
       url: https://www.granola.ai
       description: AI-powered meeting notes that capture your thoughts and amplify your productivity.
     - title: Notion AI
-      logo: https://www.notion.so/images/favicon.ico
+      logo: https://www.google.com/s2/favicons?domain=notion.so&sz=128
       url: https://www.notion.so/product/ai
       description: AI-powered workspace that helps you write, summarize, and organize your thoughts.
 
@@ -27,23 +27,23 @@
   icon: fas fa-palette
   links:
     - title: Midjourney
-      logo: https://www.midjourney.com/favicon.ico
+      logo: https://www.google.com/s2/favicons?domain=midjourney.com&sz=128
       url: https://www.midjourney.com
       description: The most powerful AI image generator for stunning, photorealistic art.
     - title: Figma
-      logo: https://www.figma.com/favicon.ico
+      logo: https://www.google.com/s2/favicons?domain=figma.com&sz=128
       url: https://www.figma.com
       description: The ultimate collaborative design tool, now supercharged with AI features.
     - title: Leonardo AI
-      logo: https://logo.clearbit.com/leonardo.ai
+      logo: https://www.google.com/s2/favicons?domain=leonardo.ai&sz=128
       url: https://leonardo.ai
       description: Generate high-quality game assets and stunning artwork with daily free credits.
     - title: Canva
-      logo: https://www.canva.com/favicon.ico
+      logo: https://www.google.com/s2/favicons?domain=canva.com&sz=128
       url: https://www.canva.com
       description: Easy online design tool for creating social media posts, posters, and presentations.
     - title: Remove.bg
-      logo: https://www.remove.bg/favicon.ico
+      logo: https://www.google.com/s2/favicons?domain=remove.bg&sz=128
       url: https://remove.bg
       description: Instantly remove image backgrounds with 100% automation in 5 seconds.
 
@@ -51,27 +51,27 @@
   icon: fas fa-video
   links:
     - title: Fliki
-      logo: https://logo.clearbit.com/fliki.ai
+      logo: https://www.google.com/s2/favicons?domain=fliki.ai&sz=128
       url: https://fliki.ai/?via=jiandong
       description: Turn text into videos in minutes with AI. Create stunning videos effortlessly.
     - title: HeyGen
-      logo: https://logo.clearbit.com/heygen.com
+      logo: https://www.google.com/s2/favicons?domain=heygen.com&sz=128
       url: https://www.heygen.com
       description: Create engaging AI digital human videos with voice cloning in minutes.
     - title: Runway
-      logo: https://logo.clearbit.com/runwayml.com
+      logo: https://www.google.com/s2/favicons?domain=runwayml.com&sz=128
       url: https://runwayml.com
       description: Hollywood-grade AI video generation from text prompts.
     - title: CapCut
-      logo: https://logo.clearbit.com/capcut.com
+      logo: https://www.google.com/s2/favicons?domain=capcut.com&sz=128
       url: https://www.capcut.com
       description: All-in-one video editing tool with powerful AI features for creators.
     - title: ElevenLabs
-      logo: https://logo.clearbit.com/elevenlabs.io
+      logo: https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=128
       url: https://elevenlabs.io
       description: The most realistic AI text-to-speech and voice cloning platform.
     - title: Suno
-      logo: https://logo.clearbit.com/suno.ai
+      logo: https://www.google.com/s2/favicons?domain=suno.ai&sz=128
       url: https://www.suno.ai
       description: Generate full songs with lyrics and vocals just from a text description.
 
@@ -79,19 +79,19 @@
   icon: fas fa-pen-nib
   links:
     - title: Jasper
-      logo: https://logo.clearbit.com/jasper.ai
+      logo: https://www.google.com/s2/favicons?domain=jasper.ai&sz=128
       url: https://www.jasper.ai
       description: Enterprise-grade AI writing assistant for marketing teams and creators.
     - title: Grammarly
-      logo: https://logo.clearbit.com/grammarly.com
+      logo: https://www.google.com/s2/favicons?domain=grammarly.com&sz=128
       url: https://www.grammarly.com
       description: Instantly improve your writing, grammar, and tone with AI.
     - title: Copy.ai
-      logo: https://logo.clearbit.com/copy.ai
+      logo: https://www.google.com/s2/favicons?domain=copy.ai&sz=128
       url: https://www.copy.ai
       description: AI-powered copywriting tool for generating marketing copy, blogs, and emails.
     - title: DeepL
-      logo: https://logo.clearbit.com/deepl.com
+      logo: https://www.google.com/s2/favicons?domain=deepl.com&sz=128
       url: https://www.deepl.com
       description: The best AI translator, known for its incredibly natural and accurate translations.
 
@@ -99,19 +99,19 @@
   icon: fas fa-code
   links:
     - title: Framer
-      logo: https://logo.clearbit.com/framer.com
+      logo: https://www.google.com/s2/favicons?domain=framer.com&sz=128
       url: https://www.framer.com
       description: The best no-code website builder for creators and independent developers.
     - title: Cursor
-      logo: https://logo.clearbit.com/cursor.sh
+      logo: https://www.google.com/s2/favicons?domain=cursor.sh&sz=128
       url: https://cursor.sh
       description: The AI-first code editor designed for pair-programming with an LLM.
     - title: GitHub Copilot
-      logo: https://logo.clearbit.com/github.com
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=128
       url: https://github.com/features/copilot
       description: Your AI pair programmer that helps you write code faster and with less work.
     - title: v0 by Vercel
-      logo: https://logo.clearbit.com/v0.dev
+      logo: https://www.google.com/s2/favicons?domain=v0.dev&sz=128
       url: https://v0.dev
       description: Generate UI with simple text prompts. Copy, paste, and ship beautiful interfaces.
 
@@ -119,10 +119,10 @@
   icon: fas fa-chart-line
   links:
     - title: Systeme.io
-      logo: https://logo.clearbit.com/systeme.io
+      logo: https://www.google.com/s2/favicons?domain=systeme.io&sz=128
       url: https://systeme.io/?sa=sa028481026356a9d95e81c2e3feccf4c1f32e8ae1
       description: All-in-one marketing platform to build sales funnels and websites. Start for free!
     - title: Gamma
-      logo: https://logo.clearbit.com/gamma.app
+      logo: https://www.google.com/s2/favicons?domain=gamma.app&sz=128
       url: https://gamma.app
       description: Create beautiful presentations, documents, and webpages instantly with AI.
