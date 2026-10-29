@@ -3,23 +3,19 @@
   icon: fas fa-briefcase
   links:
     - title: ChatGPT
-      logo: https://chatgpt.com/favicon.ico
+      logo: https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg
       url: https://chatgpt.com
       description: The ultimate AI assistant for writing, coding, and brainstorming.
     - title: Claude
-      logo: https://claude.ai/favicon.ico
+      logo: https://upload.wikimedia.org/wikipedia/commons/7/78/Anthropic_logo.svg
       url: https://claude.ai
       description: Exceptional AI for long-form reading, writing, and natural conversations.
     - title: Perplexity
-      logo: https://www.perplexity.ai/favicon.ico
+      logo: https://upload.wikimedia.org/wikipedia/commons/1/1d/Perplexity_AI_logo.svg
       url: https://www.perplexity.ai
       description: The world's most powerful AI search engine, giving you direct answers with sources.
-    - title: Granola
-      logo: https://icons.duckduckgo.com/ip3/granola.ai.ico
-      url: https://www.granola.ai
-      description: AI-powered meeting notes that capture your thoughts and amplify your productivity.
     - title: Notion AI
-      logo: https://www.notion.so/images/favicon.ico
+      logo: https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png
       url: https://www.notion.so/product/ai
       description: AI-powered workspace that helps you write, summarize, and organize your thoughts.
 
@@ -27,19 +23,15 @@
   icon: fas fa-palette
   links:
     - title: Midjourney
-      logo: https://www.midjourney.com/favicon.ico
+      logo: https://upload.wikimedia.org/wikipedia/commons/9/93/Midjourney_Logo.svg
       url: https://www.midjourney.com
       description: The most powerful AI image generator for stunning, photorealistic art.
     - title: Figma
-      logo: https://www.figma.com/favicon.ico
+      logo: https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg
       url: https://www.figma.com
-      description: The ultimate collaborative design tool, now supercharged with AI features.
-    - title: Leonardo AI
-      logo: https://icons.duckduckgo.com/ip3/leonardo.ai.ico
-      url: https://leonardo.ai
-      description: Generate high-quality game assets and stunning artwork with daily free credits.
+      description: The ultimate collaborative design tool.
     - title: Canva
-      logo: https://www.canva.com/favicon.ico
+      logo: https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg
       url: https://www.canva.com
       description: Easy online design tool for creating social media posts, posters, and presentations.
     - title: Remove.bg
@@ -51,31 +43,27 @@
   icon: fas fa-video
   links:
     - title: Dashtoon
-      logo: https://icons.duckduckgo.com/ip3/dashtoon.com.ico
+      logo: https://dashtoon.com/favicon.ico
       url: https://dashtoon.com
       description: Create stunning AI comics and webtoons from text prompts. Perfect for storytelling and comic creation.
     - title: InVideo AI
-      logo: https://icons.duckduckgo.com/ip3/invideo.io.ico
+      logo: https://invideo.io/favicon.ico
       url: https://invideo.io
       description: Turn scripts and text into complete videos with AI-generated visuals, voiceovers, and subtitles.
     - title: Kaiber
-      logo: https://icons.duckduckgo.com/ip3/kaiber.ai.ico
+      logo: https://kaiber.ai/favicon.ico
       url: https://kaiber.ai
       description: Transform your text and images into stunning animated videos. Ideal for music videos and motion comics.
-    - title: Comic Factory
-      logo: https://icons.duckduckgo.com/ip3/huggingface.co.ico
-      url: https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory
-      description: Generate comic strips from text prompts instantly. A free, open-access AI comic generator.
     - title: Fliki
-      logo: https://icons.duckduckgo.com/ip3/fliki.ai.ico
+      logo: https://fliki.ai/favicon.ico
       url: https://fliki.ai/?via=jiandong
       description: Turn text into videos in minutes with AI. Create stunning videos effortlessly.
     - title: HeyGen
-      logo: https://icons.duckduckgo.com/ip3/heygen.com.ico
+      logo: https://www.heygen.com/favicon.ico
       url: https://www.heygen.com
       description: Create engaging AI digital human videos with voice cloning in minutes.
     - title: Runway
-      logo: https://icons.duckduckgo.com/ip3/runwayml.com.ico
+      logo: https://runwayml.com/favicon.ico
       url: https://runwayml.com
       description: Hollywood-grade AI video generation from text prompts.
     - title: CapCut
@@ -83,11 +71,11 @@
       url: https://www.capcut.com
       description: All-in-one video editing tool with powerful AI features for creators.
     - title: ElevenLabs
-      logo: https://icons.duckduckgo.com/ip3/elevenlabs.io.ico
+      logo: https://elevenlabs.io/favicon.ico
       url: https://elevenlabs.io
       description: The most realistic AI text-to-speech and voice cloning platform.
     - title: Suno
-      logo: https://icons.duckduckgo.com/ip3/suno.ai.ico
+      logo: https://www.suno.ai/favicon.ico
       url: https://www.suno.ai
       description: Generate full songs with lyrics and vocals just from a text description.
 
@@ -95,19 +83,19 @@
   icon: fas fa-pen-nib
   links:
     - title: Jasper
-      logo: https://icons.duckduckgo.com/ip3/jasper.ai.ico
+      logo: https://www.jasper.ai/favicon.ico
       url: https://www.jasper.ai
       description: Enterprise-grade AI writing assistant for marketing teams and creators.
     - title: Grammarly
-      logo: https://icons.duckduckgo.com/ip3/grammarly.com.ico
+      logo: https://www.grammarly.com/favicon.ico
       url: https://www.grammarly.com
       description: Instantly improve your writing, grammar, and tone with AI.
     - title: Copy.ai
-      logo: https://icons.duckduckgo.com/ip3/copy.ai.ico
+      logo: https://www.copy.ai/favicon.ico
       url: https://www.copy.ai
       description: AI-powered copywriting tool for generating marketing copy, blogs, and emails.
     - title: DeepL
-      logo: https://www.deepl.com/favicon.ico
+      logo: https://upload.wikimedia.org/wikipedia/commons/a/a5/DeepL_logo.svg
       url: https://www.deepl.com
       description: The best AI translator, known for its incredibly natural and accurate translations.
 
@@ -117,32 +105,28 @@
     - title: FFmpeg Skill
       logo: https://github.com/favicon.ico
       url: https://github.com/kajisho5/ffmpeg-skill
-      description: A local video editor skill for AI coding agents. Automate video editing with 42 FFmpeg tools. No cloud uploads.
+      description: A local video editor skill for AI coding agents. Automate video editing with 42 FFmpeg tools.
     - title: Framer
-      logo: https://icons.duckduckgo.com/ip3/framer.com.ico
+      logo: https://www.framer.com/favicon.ico
       url: https://www.framer.com
       description: The best no-code website builder for creators and independent developers.
     - title: Cursor
-      logo: https://icons.duckduckgo.com/ip3/cursor.sh.ico
+      logo: https://cursor.sh/favicon.ico
       url: https://cursor.sh
       description: The AI-first code editor designed for pair-programming with an LLM.
     - title: GitHub Copilot
       logo: https://github.com/favicon.ico
       url: https://github.com/features/copilot
       description: Your AI pair programmer that helps you write code faster and with less work.
-    - title: v0 by Vercel
-      logo: https://icons.duckduckgo.com/ip3/v0.dev.ico
-      url: https://v0.dev
-      description: Generate UI with simple text prompts. Copy, paste, and ship beautiful interfaces.
 
 - taxonomy: AI Marketing & Monetization
   icon: fas fa-chart-line
   links:
     - title: Systeme.io
-      logo: https://icons.duckduckgo.com/ip3/systeme.io.ico
+      logo: https://systeme.io/favicon.ico
       url: https://systeme.io/?sa=sa028481026356a9d95e81c2e3feccf4c1f32e8ae1
       description: All-in-one marketing platform to build sales funnels and websites. Start for free!
     - title: Gamma
-      logo: https://icons.duckduckgo.com/ip3/gamma.app.ico
+      logo: https://gamma.app/favicon.ico
       url: https://gamma.app
       description: Create beautiful presentations, documents, and webpages instantly with AI.
